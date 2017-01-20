@@ -34,5 +34,5 @@ filetype plugin indent on    " required
 " Put your non-Plugin stuff after this line
 
 syntax on
-colorscheme mushroom
+colorscheme xoria
 let mapleader=","
